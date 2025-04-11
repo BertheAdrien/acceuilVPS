@@ -374,10 +374,10 @@
             <h3>WelcomeTraining</h3>
           </div>
           <div class="card-body">
-            <i class="fas fa-dumbbell card-icon" aria-hidden="true"></i>
+            <i class="fas fa-graduation-cap card-icon" aria-hidden="true"></i>
             <h4 class="card-title">WelcomeTraining</h4>
             <p class="card-description">Plateforme de Signature en ligne destinée aux établissements scolaires.</p>
-            <a href="https://welcometraining.bertadrien.fr" class="btn" aria-label="Visiter WelcomeTraining">S'entraîner</a>
+            <a href="https://welcometraining.bertadrien.fr" class="btn" aria-label="Visiter WelcomeTraining">Explorer</a>
           </div>
         </div>
       </div>
