@@ -53,8 +53,8 @@
     <p>Explorez mes projets :</p>
     <ul>
       <li><a href="https://portfolio.bertadrien.fr">Portfolio</a></li>
-      <li><a href="https://blog.bertadrien.fr">Blog</a></li>
-      <li><a href="https://tools.bertadrien.fr">Outils</a></li>
+      <li><a href="https://clickneat.bertadrien.fr">ClickNeat</a></li>
+      <li><a href="https://welcometraining.bertadrien.fr">WelcomeTraining</a></li>
       <!-- Ajoute d'autres liens ici -->
     </ul>
   </div>
